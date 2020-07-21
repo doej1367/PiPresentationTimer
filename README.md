@@ -7,4 +7,4 @@ The controlls are easy:
 Left-Click: Timer reset
 Right-Click: Options menu to set a different duration or close the application
 
-![timer_screenshot1](screenshots/timer_screenshot1.JPG)
+![timer_screenshot1](src/screenshots/timer_screenshot1.JPG)
