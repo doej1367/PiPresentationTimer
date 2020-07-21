@@ -1,5 +1,5 @@
 # PiPresentationTimer
-A small Pie Chart that slowly fills red in a set timeframe to have a better overview over the time left in a presentation.
+A small pie chart that slowly fills red in a set timeframe to have a better overview over the time left in a presentation.
 
 It sits on the upper right side of the screen, partially transparent.
 
